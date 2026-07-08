@@ -17,13 +17,13 @@ Power BI | Power Query | DAX | MySQL | Classic Models Dataset
 - Date range slicer for filtering data by selected period.
 - Product slicer for product-wise analysis.
 - KPI cards displaying:
--- Total Sales
--- Count of Unique Orders
--- Average Order Value
+ - Total Sales
+ - Count of Unique Orders
+ - Average Order Value
 - Line charts comparing:
--- Sales between USA and Rest of the World
--- Unique Orders by region
--- Average Order Value by region
+ - Sales between USA and Rest of the World
+ - Unique Orders by region
+ - Average Order Value by region
 - Bar chart showing Sales/Net Profit by Product Line.
 - Scatter chart analyzing Sales/Net Profit against Cost of Sales.
 - Donut chart displaying Sales/Net Profit by Office.
@@ -35,15 +35,15 @@ Power BI | Power Query | DAX | MySQL | Classic Models Dataset
 ### Page 2 – Profit Decomposition & Sales Overview
 
 - Interactive Decomposition Tree for Net Profit analysis with drill-down by:
--- Customer Country
--- Product Line
--- Customer Name
+ - Customer Country
+ - Product Line
+ - Customer Name
 - Sales Overview table including:
--- Year
--- Month
--- Sales Value
--- Month-over-Month (MoM %) Growth
--- Year-to-Date (YTD) Sales
+ - Year
+ - Month
+ - Sales Value
+ - Month-over-Month (MoM %) Growth
+ - Year-to-Date (YTD) Sales
 <img width="775" height="464" alt="Screenshot 2026-07-08 135208" src="https://github.com/user-attachments/assets/0b006eed-3f09-48c4-abcb-f727118be08b" />
 
 ## Key Insights
